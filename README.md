@@ -16,6 +16,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/sass.svg" alt="sass"/></a>
 <a href="https://www.lua.org/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/lua.svg" alt="lua"/></a>
 <a href="https://www.python.org/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/python.svg" alt="python"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/bash.svg" alt="bash"/></a>
 
 ## **tools/services**
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/windows.svg" alt="windows"/></a>
