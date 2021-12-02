@@ -22,8 +22,8 @@
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/windows.svg" alt="windows"/></a>
 <a href="https://manjaro.org/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/manjaro.svg" alt="manjaro"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/vscode.svg" alt="vs code"/></a>
-<a href="https://httpd.apache.org/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/apache.svg" alt="apache"/></a>
 <a href="https://git-scm.com/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/git.svg" alt="git"/></a>
+<a href="https://httpd.apache.org/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/apache.svg" alt="apache"/></a>
 <a href="https://domains.google/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/googledomains.svg" alt="google domains"/></a>
 <a href="https://www.photoshop.com/en" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/photoshop.svg" alt="photoshop"/></a>
 <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/vegas.svg" alt="vegas pro"/></a>
