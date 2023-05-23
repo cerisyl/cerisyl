@@ -38,4 +38,4 @@
 <a href="https://www.youtube.com/cering" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/youtube.svg" alt="youtube"/></a>
 <a href="https://cering.bandcamp.com/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/bandcamp.svg" alt="bandcamp"/></a>
 <a href="https://soundcloud.com/cerhythm" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/soundcloud.svg" alt="soundcloud"/></a>
-<a href="mailto:swcgunning+githome@gmail.com" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/mail.svg" alt="mail"/></a>
+<a href="mailto:hello@cering.dev" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/mail.svg" alt="mail"/></a>
