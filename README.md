@@ -1,11 +1,6 @@
-# **hi, i'm aemx.**
-***i typically go by CERiNG or cerhythm on most platforms.***
+# **hi, i'm ceri!**
+***you'll typically see me go by "CERiNG" on other platforms.***
 
-## **current projects**
-- creating and maintaing websites and webservers (html/pug + css/stylus + js + more...) 
-- creating story-driven content for [NotITG](https://notitg.heysora.net/) (lua + node.js)
-- designing charts for [lowiro's](https://lowiro.com) flagship rhythm game, [Arcaea](https://arcaea.lowiro.com) (level design)
-  
 ## **languages**
 <a href="https://www.w3.org/html/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/html.svg" alt="html"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" style="margin-right: 8px;" src="icons/css.svg" alt="css"/></a>
